@@ -1,2 +1,1 @@
-prev. astro @ yale
-now physics @ stanford
+(astro)physics @ stanford
